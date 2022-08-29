@@ -4,8 +4,8 @@
 #### Now
 
 - ✨ Contributing to [ETF_returns](https://github.com/rushikeshdikey/ETF_returns)
-- :fire: Interested in DevOps and Data engineering
-- :calendar: Looking for contributing to Data Science based open source projects 
+- :fire: Interested in DevOps and Data Science
+- :calendar: Looking forward to contribute to Data Science based open source projects 
 
 #### Bio
 
