@@ -3,9 +3,9 @@
 
 #### Now
 
-- ✨ Contributing to [ETF_returns](https://github.com/rushikeshdikey/ETF_returns)
+- ✨ Contributing to Self Learning
 - :fire: Interested in DevOps and Data Science
-- :calendar: Looking forward to contribute to Data Science based open source projects 
+- :calendar: Looking forward to contribute to DevOps tools based open source projects 
 
 #### Bio
 
@@ -19,7 +19,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/docker.svg" alt="Docker"> <img height="48" src="img/kubernetes.svg" alt="kubernetes"> <img height="48" src="img/jenkins.svg" alt="jenkins"> <img height="48" src="img/linux.svg" alt="linux"> <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/jupyter.svg" alt="jupyter"> <img height="48" src="img/data-science.svg" alt="data-science"> <img height="48" src="img/git.svg" alt="git">
+<img height="48" src="img/docker.svg" alt="Docker"> <img height="48" src="img/kubernetes.svg" alt="kubernetes"> <img height="48" src="img/helm.svg" alt="helm"> <img height="48" src="img/terraform.svg" alt="terraform"> <img height="48" src="img/jenkins.svg" alt="jenkins"> <img height="48" src="img/linux.svg" alt="linux"> <img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/jupyter.svg" alt="jupyter"> <img height="48" src="img/data-science.svg" alt="data-science"> <img height="48" src="img/git.svg" alt="git">
 
 #### Development Stuffs:
 
