@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Senior Software Engineer working in Pune, India
+## Hi 👋, I'm a System Anaylst working in Pune, India
 
 
 #### Now
